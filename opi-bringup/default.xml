@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote alias="repo" fetch="https://github.com/meta-qt5" name="qt5"/>
-
-  <include name="base/opi-base.xml"/>
-  <include name="bsp/opi-bsp-sunxi.xml"/>
-
-  <project name="meta-qt5" path="layers/meta-qt5" remote="qt5" revision="b4d24d70aca75791902df5cd59a4f4a54aa4a125" upstream="dunfell"/>
-</manifest>
