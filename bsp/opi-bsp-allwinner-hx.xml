@@ -2,5 +2,5 @@
 <manifest>
   <remote alias="repo" fetch="https://github.com/dimtass"     name="dimtass"/>
 
-  <project name="meta-allwinner-hx" path="layers/meta-allwinner-hx" remote="dimtass"  upstream="dunfell"/>
+  <project name="meta-allwinner-hx" path="layers/meta-allwinner-hx" remote="dimtass"  revision="dunfell"/>
 </manifest>
