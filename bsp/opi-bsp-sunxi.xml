@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote alias="repo" fetch="https://github.com/linux-sunxi" name="sunxi"/>
+
+  <project name="meta-sunxi"        path="layers/meta-sunxi"        remote="sunxi"    upstream="dunfell"/>
+</manifest>
